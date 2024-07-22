@@ -292,10 +292,12 @@ section {
   #rightSide {
     width: 300px;
     height: 250px;
+    gap: 10px;
   }
   #leftSide {
     height: 250px;
     width: 300px;
+    gap: 10px;
   }
 
   .circleProgress {
